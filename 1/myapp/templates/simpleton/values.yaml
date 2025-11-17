@@ -1,0 +1,4 @@
+image:
+    repo: busybox
+    tag: 1.37.0
+message: hello world
