@@ -1,0 +1,4 @@
+name: hello
+version: 1.0.0
+description: just a friendly greeting
+command: "${HELM_PLUGIN_DIR}/hello.sh"
